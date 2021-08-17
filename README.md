@@ -1,7 +1,7 @@
 # First-Project-Unity
 First project using Unity Engine to develop games
 
-===========================================================================================================================================================
+==================================================================================
 
 ## Scope
 
@@ -9,4 +9,4 @@ This project aims to develop intial skillsets in programming with the unity engi
 
 It is developed in conjunction with keypuncheralwin as part of a collaborative project to expand our knowledge in C# and Unity Engine software development.
 
-===========================================================================================================================================================
+===================================================================================
